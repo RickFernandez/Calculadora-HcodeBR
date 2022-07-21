@@ -1,7 +1,9 @@
 # EstudosJS - Calculadora
 
-<a href="https://rickfernandez.github.io/EstudosJS-Calculadora/" target="_blank"></a>
-
+<div>
+  <a href="https://rickfernandez.github.io/EstudosJS-Calculadora/" target="_blank"></a>
+</div>
+  
 Calculadora desenvolvida como exemplo do Curso Completo de JavaScript da HcodeBr
 
 ### Projeto
