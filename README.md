@@ -1,6 +1,6 @@
 # EstudosJS - Calculadora
 
-https://rickfernandez.github.io/EstudosJS-Calculadora/
+<a href="https://rickfernandez.github.io/EstudosJS-Calculadora/" target="_blank"></a>
 
 Calculadora desenvolvida como exemplo do Curso Completo de JavaScript da HcodeBr
 
